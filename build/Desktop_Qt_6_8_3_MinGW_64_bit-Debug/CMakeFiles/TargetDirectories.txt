@@ -1,0 +1,9 @@
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/Sample.dir
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/Sample_autogen_timestamp_deps.dir
+C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/Sample_autogen.dir

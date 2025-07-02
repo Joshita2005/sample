@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8540624eeefeb40df177.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sample-Debug-73814d17ac4b9c8e1389.json",
+					"name" : "Sample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sample_autogen-Debug-dd4d487f77d37dbbd47a.json",
+					"name" : "Sample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sample_autogen_timestamp_deps-Debug-fadc16e2c7e724798e9a.json",
+					"name" : "Sample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Joshita Dhir/OneDrive - Sudhir Srivastava Innovations Pvt. Ltd/Documents/Sample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
